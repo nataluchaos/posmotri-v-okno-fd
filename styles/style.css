@@ -241,7 +241,7 @@ ol {
 .content__list-container {
   position: relative;
   height: 298px;
-  overflow-y: scroll;
+  overflow-y: auto;
   display: grid;
   gap: 30px;
   padding-bottom: 2px;
