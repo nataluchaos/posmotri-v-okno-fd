@@ -170,6 +170,10 @@ ol {
   text-underline-offset: 3px;
 }
 
+.search-form__label:has(.search-form__textfield):hover {
+  text-decoration: none;
+}
+
 .search-form__label:active {
   text-decoration: none;
   opacity: 1;
